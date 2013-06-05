@@ -1,3 +1,0 @@
-In Clk Period=25.000000
-Clk Mult Factor=1
-Clk Div Factor=1

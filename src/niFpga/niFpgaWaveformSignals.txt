@@ -1,5 +1,0 @@
---Testbench Status
-DiagramClocks:
-tb_NiFpgaSimulationModel/NiFpgaSimulationModel_Instance/LvFpgaSim796xTop_Instance/thewindowx/thevi/../../../../diagramclocks
-Status:
-tb_NiFpgaSimulationModel/NiFpgaSimulationModel_Instance/LvFpgaSim796xTop_Instance/thewindowx/thevi/../../../../mainstimulusblock/hostinterfacestatus
