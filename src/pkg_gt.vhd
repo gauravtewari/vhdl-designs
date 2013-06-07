@@ -10,9 +10,13 @@ package gt is
 
 	-- subtype to specify delays
 	subtype delay is time;
+	subtype byte_t is std_logic_vector (7 downto 0);
+	type bytearray_t is array (natural range <>) of byte_t;
+	
+	
 	--- constant
 	constant width : integer := 8;
-	
+	constant flag : std_logic_vector (31 downto 0) := X"10FFFFFF";
 	
   --- a record
   type t1 is record
